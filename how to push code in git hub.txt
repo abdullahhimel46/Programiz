@@ -1,0 +1,19 @@
+step-1:
+open cmd in the source folder and paste these commands and hit enter ->
+
+echo "# Phytron-codes" >> README.md
+git init
+git add README.md
+
+Step-2: git add . 
+	->hit enter
+
+Step-3:
+now paste these four lines ->
+
+git commit -m "first commit"
+git branch -M main
+git remote add origin https://github.com/abdullahhimel46/Phytron-codes.git
+git push -u origin main
+
+now, give a final push by hitting the enter key!
