@@ -1,0 +1,5 @@
+Finding max or min element:
+//initialize max with a minimux value
+int mx=MIN_INT;
+//initilize min with a maximum value
+int mn=MAX_INT;
